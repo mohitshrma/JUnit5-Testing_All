@@ -9,7 +9,7 @@ This repository contains unit test cases written using **JUnit 5** to ensure the
 
 - Java
 - JUnit 5
-- Maven or Gradle
+- Maven 
 
 📂 Project Structure
 
